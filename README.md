@@ -7,3 +7,11 @@ Instalar la siguiente librería:
 pip install safe-transformer
 ```
 Nota: Esta instalación ya se encuentra en el Notebook SAFE.ipynb
+
+```python
+#hola
+```
+
+```bash
+13.617733207161479
+```
