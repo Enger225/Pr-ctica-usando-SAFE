@@ -28,4 +28,8 @@ Coeficiente de determinación del modelo regresión lineal en H2: 0.980278512835
 MSE (Error cuadrático medio) del modelo regresión lineal en H1: 0.00574138791812281619
 MSE (Error cuadrático medio) del modelo regresión lineal en H2: 0.00479011723181646271
 ```
-https://github.com/Enger225/Pr-ctica-usando-SAFE/blob/main/Graficas/logreg_H1_mse.png
+&nbsp;&nbsp;
+
+![*Fit method algorithm*](/Graficas/logreg_H1_mse.png)
+
+&nbsp;&nbsp;
